@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{What is metrics?}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Metrics vs Logs vs Traces}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Why using metrics?}{6}{0}{1}
+\beamer@sectionintoc {2}{Time series databases}{7}{0}{2}
+\beamer@sectionintoc {3}{What is Prometheus?}{10}{0}{3}
+\beamer@sectionintoc {4}{What is Grafana?}{14}{0}{4}
+\beamer@subsectionintoc {4}{1}{Grafana Dashboard}{15}{0}{4}
